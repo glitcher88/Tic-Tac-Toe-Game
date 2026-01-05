@@ -1,4 +1,4 @@
-https://github.com/glitcher88/Tic-Tac-Toe-Game/blob/main/Show%20Game.png
+![Game Overview](https://github.com/glitcher88/Tic-Tac-Toe-Game/blob/main/Show%20Game.png)
 # Tic-Tac-Toe-Game
 Just my first Application with C# Windows Forms (.NET Framework)
 
